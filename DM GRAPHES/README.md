@@ -1,8 +1,10 @@
+# Kruskal's algorithm in C
 
-Une fois le dossier décompressé, ouvrir un terminal depuis le dossier. 
-Pour compiler, utiliser la commande 'make'
-Pour lancer l'algorithme de Test 'make launch'
-Pour supprimer les fichiers binaires et .dot, taper 'make clean'
-Pour supprimer les fichiers binaires, .dot et l'executable, taper 'make distclean'
+University project with given libraries
 
-(Se référer au makefile si besoin)  
+-Compile : 'make'  
+-Launch test algorithm : 'make launch'.  
+-Remove binary and .dot files : 'make clean'.  
+-Remove the binary, .dot and executable files : 'make distclean'.  
+
+(Refer to the makefile for more informations)
